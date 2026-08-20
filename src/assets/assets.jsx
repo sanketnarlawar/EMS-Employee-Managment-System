@@ -24,9 +24,9 @@ export const dummyEmployeeDashboardData = {
 
 export const dummyProfileData = {
     _id: "69b411e6f8a807df391d7b13",
-    firstName: "John",
-    lastName: "Doe",
-    email: "johndoe@example.com",
+    firstName: "Sanket",
+    lastName: "Narlawar",
+    email: "sanket@example.com",
     image: null,
 };
 
